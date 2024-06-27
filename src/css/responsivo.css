@@ -1,0 +1,15 @@
+@media (max-width: 620px){
+    .omelete-slider{
+        padding: 10px 15px;
+   
+    }
+
+    .lista-omelete{
+        width: 400px;
+        height: 1250px;
+    }
+    .omelete .nome{
+        padding: 8px 10px 8px 22px;
+        font-size: 20px;
+    }
+}

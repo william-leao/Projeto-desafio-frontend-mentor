@@ -1,0 +1,50 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url('../imagens/fundo-base-3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+.omelete-slider {
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+.lista-omelete {
+
+    width: 420px;
+    height: 1160px;
+    position: relative;
+
+}
+
+.omelete {
+    background-color: rgb(245, 230, 209, 0.6);
+    height: 100%;
+    padding: 12px;
+    box-shadow: rgb(3, 3, 3) 0px 7px 29px 0px;
+    border-radius: 40px;
+    position: absolute;
+}
+
+.omelete .imagem-omelete {
+    width: 100%;
+    border-radius: 900px;
+}
+
+.omelete .nome {
+    padding: 8px 10px 8px 22px;
+    color: #0a0a0a;
+    text-transform: uppercase;
+
+}
+
+.attribution {
+    text-align: center;
+}
